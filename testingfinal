@@ -1,0 +1,20 @@
+{
+  "title": "testing comic",
+  "description": "This is a testing page",
+  "artist": "veeeeeeeeeeeeeeeeeee (based)",
+  "author": "veeeeeeeeeeeeeeeeeeeeee (cringe)",
+  "cover": "https://files.catbox.moe/yfejg5.jpg",
+  "wiseread_settings": {
+    "title_template": "${ number }. ${ title }"
+  },
+  "chapters": {
+    "1": {
+      "title": "test part one",
+      "volume": "1",
+      "groups": {
+        "TESTING AA": "/proxy/api/imgur/chapter/aePUWai/"
+      }
+    }
+    
+  }
+}
